@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Karakterek/NPC-k/Daran Edermath.md",
-                "mode": "preview",
+                "file": "Kánon/Karakterek/Yegg.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Daran Edermath"
+              "title": "Yegg"
             }
           }
         ]
@@ -213,13 +213,20 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "19664250f588e970",
+  "active": "716832703e862cdb",
   "lastOpenFiles": [
-    "Kánon/Karakterek/Aldith Tresendar.md",
-    "Kánon/Karakterek/Halia Thornton.md",
-    "Kánon/Karakterek/Iarno Albrek.md",
-    "Karakterek/NPC-k/Kaelynne.md",
+    "Kánon/Story/Prológus.md",
+    "Kánon/Story/Első fejezet - Goblin Nyilak.md",
+    "Kánon/Karakterek/Yegg.md",
+    "Kánon/Karakterek/Yeemik.md",
     "Kánon/Karakterek/Linene Graywind.md",
+    "Kánon/Karakterek/Lhupo.md",
+    "Kánon/Karakterek/Iarno Albrek.md",
+    "Kánon/Karakterek/Halia Thornton.md",
+    "Kánon/Karakterek/Grol Király.md",
+    "Kánon/Karakterek/Aldith Tresendar.md",
+    "Karakterek/NPC-k/Daran Edermath.md",
+    "Karakterek/NPC-k/Kaelynne.md",
     "Karakterek/NPC-k/Lord Salvorax.md",
     "Karakterek/NPC-k/Lord Thorian Owlshield.md",
     "Karakterek/NPC-k/Lyrindor Velinquest.md",
@@ -234,13 +241,6 @@
     "Karakterek/NPC-k/Ripper (Klarg rémfarkasa).md",
     "Karakterek/NPC-k/Selûne.md",
     "Karakterek/NPC-k/Sildar Hallwinter.md",
-    "Karakterek/NPC-k/Tempus.md",
-    "Karakterek/NPC-k/Thalana.md",
-    "Karakterek/NPC-k/Thalborick Dwindlespark.md",
-    "Karakterek/NPC-k/Tharindor Sylvara.md",
-    "Kánon/Karakterek/Grol Király.md",
-    "Karakterek/NPC-k/Klarg.md",
-    "Kánon/Karakterek/Lhupo.md",
     "Kánon/Karakterek",
     "Kánon/Story",
     "Session-ök",

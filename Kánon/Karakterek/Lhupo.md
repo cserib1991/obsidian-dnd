@@ -1,4 +1,6 @@
 ---
+title: "Lhupo"
+draft: false
 tags:
   - npc
 Gender: Férfi

@@ -1,4 +1,6 @@
 ---
+title: "Yegg"
+draft: false
 tags:
  - npc
 AssociatedGroup: Cragmaw Törzs

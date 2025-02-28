@@ -1,4 +1,6 @@
 ---
+title: "Yeemik"
+draft: false
 tags:
   - npc
 AssociatedGroup: Cragmaw Törzs

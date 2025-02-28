@@ -1,4 +1,6 @@
 ---
+title: "Halia Thornton"
+draft: false
 tags:
   - character
   - npc

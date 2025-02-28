@@ -1,4 +1,6 @@
 ---
+title: "Iarno Albrek"
+draft: false
 tags:
   - character
   - npc

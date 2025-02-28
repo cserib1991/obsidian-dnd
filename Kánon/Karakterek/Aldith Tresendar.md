@@ -1,4 +1,6 @@
 ---
+title: "Aldith Tresendar"
+draft: false
 tags:
   - character
   - npc

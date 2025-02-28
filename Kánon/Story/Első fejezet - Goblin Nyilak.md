@@ -1,4 +1,6 @@
 ---
+title: "Első fejezet - Goblin Nyilak"
+draft: false
 tags:
   - story
   - quest

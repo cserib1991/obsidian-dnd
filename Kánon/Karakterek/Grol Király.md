@@ -1,4 +1,6 @@
 ---
+title: "Grol Király"
+draft: false
 tags:
  - npc
 Gender: Férfi
