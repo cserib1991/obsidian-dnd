@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kánon/Karakterek/Yegg.md",
+                "file": "Kánon/Index.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Yegg"
+              "title": "Index"
             }
           }
         ]
@@ -213,11 +213,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "716832703e862cdb",
+  "active": "19664250f588e970",
   "lastOpenFiles": [
+    "Kánon/Karakterek/Yegg.md",
+    "Kánon/Index.md",
     "Kánon/Story/Prológus.md",
     "Kánon/Story/Első fejezet - Goblin Nyilak.md",
-    "Kánon/Karakterek/Yegg.md",
     "Kánon/Karakterek/Yeemik.md",
     "Kánon/Karakterek/Linene Graywind.md",
     "Kánon/Karakterek/Lhupo.md",
@@ -240,7 +241,6 @@
     "Karakterek/NPC-k/Reidoth.md",
     "Karakterek/NPC-k/Ripper (Klarg rémfarkasa).md",
     "Karakterek/NPC-k/Selûne.md",
-    "Karakterek/NPC-k/Sildar Hallwinter.md",
     "Kánon/Karakterek",
     "Kánon/Story",
     "Session-ök",
