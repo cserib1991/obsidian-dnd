@@ -1,0 +1,3 @@
+A kampány főgonosza, a Fekete Pók, így nem csupán egy öncélú bűnöző lesz, hanem Shar szolgálatában álló sötét ügynök. A célja nem más, mint hogy hozzáférést szerezzen a _Lost Echo Cave_-hez és a Kohóhoz. Shar tanította őt sötét mágiára, és titkos tudást adott neki, hogy irányíthassa a mágia áramlatait, és felhasználhassa azokat Shar tervéhez.
+
+A Fekete Pók maga is Shar szolgálatában áll, és célja, hogy a kohó erejét kihasználva gyengítse a szent és az arkán mágia közötti kapcsolatot. Tudja, hogy a kohó energiája már szinte teljesen elszivárgott, és hogy a kalandorok a rituálé elvégzését tervezik itt. Ezért szándékosan ösztökéli őket, hogy használják a kohót – tudván, hogy az energia hiánya miatt a rituálé kudarcot vallhat, és Shar malmára hajtja a vizet.

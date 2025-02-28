@@ -1,0 +1,5 @@
+.print {
+    .callout[data-callout-metadata~="no-print"] {
+        display: none;
+    }
+}

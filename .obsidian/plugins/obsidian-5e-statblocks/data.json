@@ -1,0 +1,271 @@
+{
+  "monsters": [
+    [
+      "Caracal",
+      {
+        "name": "Caracal",
+        "type": "Beast",
+        "size": "Medium",
+        "cr": "1/4",
+        "alignment": "unaligned",
+        "ac": "13 (Natural Armor)",
+        "hp": 11,
+        "hit_dice": "2d8+2",
+        "image": [
+          [
+            "caracal.png"
+          ]
+        ],
+        "speed": "40 ft.",
+        "stats": [
+          12,
+          15,
+          12,
+          3,
+          12,
+          6
+        ],
+        "senses": "passive perception 13",
+        "skillsaves": [
+          {
+            "Acrobatics": 3
+          },
+          {
+            "Stealth": 3
+          },
+          {
+            "Perception": 4
+          }
+        ],
+        "traits": [
+          [
+            "Night Vision",
+            "The caracal can see in the night to 60 ft. as she would see at daylight."
+          ],
+          [
+            "Graceful Agility",
+            "The caracal gets advantage on **Acrobatics** checks and can move at normal speed on difficult terrains."
+          ],
+          [
+            "Keen Sight",
+            "The caracal gets advantage on **Perception** checks based on her vision."
+          ],
+          [
+            "Stealthy Predator",
+            "The caracal gets advantage on **Stealth** checks hiding in her natural environment (forests, deserts)."
+          ]
+        ],
+        "actions": [
+          [
+            "Claw",
+            "_Melee Weapon Attack_: +4 to hit, reach 5 ft., on target. Hit: 1d6 +2 slashing damage. If the target is a creature, it must succeed on a DC 12 **Strength** saving throw or be knocked prone."
+          ],
+          [
+            "Bite",
+            "_Melee Weapon Attack_: +4 to hit, reach 5 ft., on target. Hit: 1d6 +2 piercing damage. If the target is a creature, it bleeds 1d4 physical damage per turn until gets healed or stabilized."
+          ]
+        ]
+      }
+    ],
+    [
+      "Hobgoblin Shaman",
+      {
+        "name": "Hobgoblin Shaman",
+        "type": "Humanoid",
+        "subtype": "Hobgoblin",
+        "size": "Medium",
+        "cr": 3,
+        "alignment": "lawful evil",
+        "ac": "16 (breastplate)",
+        "hp": 32,
+        "hit_dice": "5d8+10",
+        "image": "Hobwiz.webp",
+        "speed": "30 ft.",
+        "stats": [
+          15,
+          14,
+          15,
+          8,
+          15,
+          10
+        ],
+        "senses": "darkvision 60 ft., passive perception 12",
+        "skillsaves": [
+          {
+            "Deception": 4
+          },
+          {
+            "Persuasion": 4
+          },
+          {
+            "Religion": 1
+          }
+        ],
+        "languages": [
+          "Common",
+          "Goblin"
+        ],
+        "traits": [
+          {
+            "name": "Martial Advantage",
+            "desc": "Once per turn, the hobgoblin shaman can deal an extra 7 (2d6) damage to a creature it hits with a weapon attack if that creature is within 5 feet of an ally of the hobgoblin that isn’t incapacitated."
+          },
+          {
+            "name": "Spellcasting",
+            "desc": "The hobgoblin shaman is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). The hobgoblin has the following cleric spells prepared. **Cantrips (at will).** <STATBLOCK-WIKI-LINK>Mending<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Resistance<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Sacred Flame<STATBLOCK-WIKI-LINK>. **1st level (4 slots)** <STATBLOCK-WIKI-LINK>Bless<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Detect Magic<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Divine Favor<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Shield of Faith<STATBLOCK-WIKI-LINK>. **2nd level (3 slots).** <STATBLOCK-WIKI-LINK>Aid<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Hold Person<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Spiritual Weapon<STATBLOCK-WIKI-LINK>. "
+          },
+          {
+            "name": "Keen Sight",
+            "desc": "The caracal gets advantage on **Perception** checks based on her vision."
+          },
+          {
+            "name": "Stealthy Predator",
+            "desc": "The caracal gets advantage on **Stealth** checks hiding in her natural environment (forests, deserts)."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Longsword",
+            "desc": "_Melee Weapon Attack_: +4 to hit, reach 5 ft., on target. Hit: 1d8 +2 slashing damage or 1d10 + 2 slashing damage if used with two hands."
+          },
+          {
+            "name": "Light Crossbow",
+            "desc": "_Ranged Weapon Attack_: +4 to hit, range 80/320 ft., one target. Hit: 1d8 +2 piercing damage."
+          }
+        ],
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
+    ],
+    [
+      "King Grol",
+      {
+        "name": "King Grol",
+        "source": "5e SRD",
+        "size": "Medium",
+        "type": "humanoid",
+        "subtype": "goblinoid",
+        "alignment": "chaotic evil",
+        "ac": 18,
+        "hp": 70,
+        "hit_dice": "11d8+9",
+        "speed": "30 ft.",
+        "stats": [
+          15,
+          14,
+          13,
+          8,
+          11,
+          9
+        ],
+        "skillsaves": [
+          {
+            "stealth": 6
+          },
+          {
+            "survival": 2
+          }
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "",
+        "damage_immunities": "",
+        "condition_immunities": "",
+        "senses": "darkvision 60 ft., passive Perception 10",
+        "languages": "Common, Goblin",
+        "cr": 3,
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Brute",
+            "desc": "A melee weapon deals one extra die of its damage when the bugbear hits with it (included in the attack).",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Surprise Attack",
+            "desc": "If the bugbear surprises a creature and hits it with an attack during the first round of combat, the target takes an extra 7 (2d6) damage from the attack.",
+            "attack_bonus": 0,
+            "damage_dice": "2d6"
+          },
+          {
+            "name": "Snarl!",
+            "desc": "King Grol always fights with his Dire Wolf Snarl. Snarl acts on its own initiative count."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Morningstar",
+            "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 11 (2d8 + 2) piercing damage.",
+            "attack_bonus": 4,
+            "damage_dice": "2d8",
+            "damage_bonus": 2
+          },
+          {
+            "name": "Javelin",
+            "desc": "Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 9 (2d6 + 2) piercing damage in melee or 5 (1d6 + 2) piercing damage at range.",
+            "attack_bonus": 4,
+            "damage_dice": "2d6",
+            "damage_bonus": 2
+          }
+        ],
+        "columns": 2,
+        "forceColumns": true,
+        "image": "<STATBLOCK-WIKI-LINK>kinggrol.jpg<STATBLOCK-WIKI-LINK>",
+        "monster": "Bugbear",
+        "dice": true,
+        "traits+": [
+          [
+            "Snarl!",
+            "King Grol always fights with his Dire Wolf Snarl. Snarl acts on its own initiative count."
+          ]
+        ],
+        "bonus_actions": [
+          {
+            "name": "Have a bite!",
+            "desc": "As a bonus actionif King Grol is able to speakhe can order Snarl to use its Bite attack on a creature in range of said Attack."
+          }
+        ],
+        "lair_actions": [
+          {
+            "name": "Summon bodyguards (2 times)",
+            "desc": "King Grol can summon his Goblinoid underlings if he's afraid of dying. On initiative count 20 (losing ties), Grol summons 1 Hobgoblin or 2 Goblins from around the castle. The goblinoids will take their turns on the Lair's initiative count. He can summon these goblins only when he gets below 50% HP or when Snarl dies."
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Field experience",
+            "desc": "As a reaction, King Grol can move up to its speed towards a hostile creature it can see."
+          },
+          {
+            "name": "Goblinoid Warlord",
+            "desc": "King Grol adds its proficiency bonus to its AC against one melee attack that would hit it as a reaction."
+          }
+        ],
+        "layout": "Basic 5e Layout"
+      }
+    ]
+  ],
+  "defaultLayouts": {},
+  "layouts": [],
+  "default": "basic-5e-layout",
+  "useDice": true,
+  "renderDice": false,
+  "export": true,
+  "showAdvanced": false,
+  "version": {
+    "major": 4,
+    "minor": 8,
+    "patch": 1
+  },
+  "paths": [
+    "/"
+  ],
+  "autoParse": false,
+  "disableSRD": false,
+  "tryToRenderLinks": true,
+  "debug": true,
+  "notifiedOfFantasy": false,
+  "hideConditionHelp": false,
+  "alwaysImport": false,
+  "defaultLayoutsIntegrated": true,
+  "atomicWrite": false
+}

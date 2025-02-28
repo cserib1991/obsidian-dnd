@@ -1,0 +1,6 @@
+---
+tags:
+  - location
+  - tavern
+  - building
+---

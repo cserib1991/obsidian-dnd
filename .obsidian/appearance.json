@@ -1,0 +1,11 @@
+{
+  "enabledCssSnippets": [
+    "supercharged-links-gen",
+    "S - Encoded Icons",
+    "S - Encoded Fonts",
+    "noprintcallout"
+  ],
+  "cssTheme": "ITS Theme",
+  "theme": "obsidian",
+  "nativeMenus": false
+}

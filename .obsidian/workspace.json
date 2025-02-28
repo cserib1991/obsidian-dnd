@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "633e9ed33c2cdb52",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b88302d4416ae7a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19664250f588e970",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Varázslatok és események/Álmok és látomások/Rémálom Cragmaw Várában.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Rémálom Cragmaw Várában"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8d53785da1df4532",
+    "type": "split",
+    "children": [
+      {
+        "id": "db73981479f61bc4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "716832703e862cdb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Fájlkezelő"
+            }
+          },
+          {
+            "id": "27a07054a87e55f8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Keresés"
+            }
+          },
+          {
+            "id": "332af30e8c2ae690",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Könyvjelzők"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8f1d4780f2aa4ba6",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc91a46551702ce3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd265644f2bb4230",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Tárgyak/Eldhjarta.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Eldhjarta visszahivatkozásai"
+            }
+          },
+          {
+            "id": "4dc9275f4b89bc38",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Tárgyak/Eldhjarta.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Kimenő kapcsolatok a(z) Eldhjarta jegyzetből"
+            }
+          },
+          {
+            "id": "a496a7fa4a553d11",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Címkék"
+            }
+          },
+          {
+            "id": "660871ffdd19c71d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Tárgyak/Eldhjarta.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Eldhjarta vázlata"
+            }
+          },
+          {
+            "id": "abd2121978ebe89d",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          },
+          {
+            "id": "5991af4e047a180b",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Gyors váltó megnyitása": false,
+      "graph:Gráf nézet megnyitása": false,
+      "canvas:Új vászon létrehozása": false,
+      "daily-notes:Mai jegyzet megnyitása": false,
+      "templates:Sablon beszúrása": false,
+      "command-palette:Parancspaletta megnyitása": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "templater-obsidian:Templater": false,
+      "dbfolder:Create a new database table": false,
+      "calendarium:Open Calendarium": false
+    }
+  },
+  "active": "19664250f588e970",
+  "lastOpenFiles": [
+    "Karakterek/NPC-k/Vaenor.md",
+    "Varázslatok és események/Álmok és látomások/Rémálom Cragmaw Várában.md",
+    "Varázslatok és események/A szimbólumok.md",
+    "Session-ök",
+    "Kánon",
+    "A kampány/Harmadik fejezet - Cragmaw vára.md",
+    "Karakterek/NPC-k/Yeemik.md",
+    "DM Board.md",
+    "Varázslatok és események/Álmok és látomások/Álmok Cragmaw hideout előtt.md",
+    "Karakterek/PC-k/Kargath Runeaxe.md",
+    "Karakterek/PC-k/Rialleynn Sylvara.md",
+    "Karakterek/PC-k/Calderyx Halora.md",
+    "DND.SRD.Wiki-main/Spells/Acid Arrow.md",
+    "DND.SRD.Wiki-main/Spells/## Spell Lists (Wikilinked).md",
+    "DND.SRD.Wiki-main/Spells/## Spell Lists.md",
+    "Varázslatok és események/Álmok és látomások/Álmok a Stonehill fogadóban.md",
+    "Varázslatok és események/Álmok és látomások/Hallucinációk a Végső Harmóniában.md",
+    "Varázslatok és események/Álmok és látomások/Közös álom a Stonehill fogadóban.md",
+    "Varázslatok és események/Álmok és látomások/Látomások Cragmaw hideoutban.md",
+    "Tárgyak/Eldhjarta.md"
+  ]
+}

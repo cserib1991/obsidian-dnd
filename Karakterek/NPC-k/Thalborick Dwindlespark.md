@@ -1,0 +1,4 @@
+- **Faj:** Rock Gnome
+- **Szakma:** Mágus és artificer, aki specializálódott mágikus védelmi rendszerekre és tárgyakra.
+- **Személyiség:** Ironikus humorú, rendkívül intelligens, de hajlamos volt az arroganciára. Nem hitt az isteni beavatkozásban, és ezt a szkepticizmusát beépítette a munkáiba.
+- **Motiváció:** Thalborick célja az volt, hogy egy olyan pajzsot hozzon létre, amely minden külső mágikus és fizikai fenyegetésnek ellenáll, anélkül, hogy szent rituálékat vagy isteni áldást igényelne.

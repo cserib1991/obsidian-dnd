@@ -1,0 +1,19 @@
+{
+  "saveWindowLocations": true,
+  "useCustomWindowName": false,
+  "customWindowName": "Second Window",
+  "windows": {
+    "Second Window": {
+      "hosts": {
+        "DESKTOP-23O4RPO": {
+          "x": -8,
+          "y": -8,
+          "width": 1936,
+          "height": 1056,
+          "fullscreen": false,
+          "maximized": true
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "collapse-filter": true,
+  "search": "-path:DND.SRD.Wiki-main  ",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#character tag:#pc  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "tag:#character tag:#npc  ",
+      "color": {
+        "a": 1,
+        "rgb": 6066646
+      }
+    },
+    {
+      "query": "tag:#event",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
+    },
+    {
+      "query": "tag:#location  ",
+      "color": {
+        "a": 1,
+        "rgb": 13545756
+      }
+    },
+    {
+      "query": "tag:#item OR tag:#magical-item  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084269
+      }
+    },
+    {
+      "query": "tag:#faction",
+      "color": {
+        "a": 1,
+        "rgb": 12737750
+      }
+    },
+    {
+      "query": "tag:#npc tag:#monster  ",
+      "color": {
+        "a": 1,
+        "rgb": 6053078
+      }
+    },
+    {
+      "query": "tag:#quest  ",
+      "color": {
+        "a": 1,
+        "rgb": 16512162
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -0.3,
+  "nodeSizeMultiplier": 1.42708333333333,
+  "lineSizeMultiplier": 1.52916666666667,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.5087618855792613,
+  "close": false
+}
