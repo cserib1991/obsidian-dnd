@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Varázslatok és események/Álmok és látomások/Rémálom Cragmaw Várában.md",
+                "file": "Karakterek/NPC-k/Daran Edermath.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Rémálom Cragmaw Várában"
+              "title": "Daran Edermath"
             }
           }
         ]
@@ -157,12 +157,32 @@
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {},
+              "icon": "lucide-file",
+              "title": "A bővítmény már nem aktív"
+            }
+          },
+          {
+            "id": "5991af4e047a180b",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "A bővítmény már nem aktív"
+            }
+          },
+          {
+            "id": "392a8bd601eb58bc",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
               "icon": "dices",
               "title": "Dice Tray"
             }
           },
           {
-            "id": "5991af4e047a180b",
+            "id": "78278817f52cb73a",
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-view",
@@ -195,25 +215,35 @@
   },
   "active": "19664250f588e970",
   "lastOpenFiles": [
-    "Karakterek/NPC-k/Vaenor.md",
-    "Varázslatok és események/Álmok és látomások/Rémálom Cragmaw Várában.md",
-    "Varázslatok és események/A szimbólumok.md",
+    "Kánon/Karakterek/Aldith Tresendar.md",
+    "Kánon/Karakterek/Halia Thornton.md",
+    "Kánon/Karakterek/Iarno Albrek.md",
+    "Karakterek/NPC-k/Kaelynne.md",
+    "Kánon/Karakterek/Linene Graywind.md",
+    "Karakterek/NPC-k/Lord Salvorax.md",
+    "Karakterek/NPC-k/Lord Thorian Owlshield.md",
+    "Karakterek/NPC-k/Lyrindor Velinquest.md",
+    "Karakterek/NPC-k/Malgorath.md",
+    "Karakterek/NPC-k/Marla.md",
+    "Karakterek/NPC-k/Nezznar.md",
+    "Karakterek/NPC-k/Nothic.md",
+    "Karakterek/NPC-k/Nym, a tündérmacska.md",
+    "Karakterek/NPC-k/Oghma.md",
+    "Karakterek/NPC-k/Rask Vargo.md",
+    "Karakterek/NPC-k/Reidoth.md",
+    "Karakterek/NPC-k/Ripper (Klarg rémfarkasa).md",
+    "Karakterek/NPC-k/Selûne.md",
+    "Karakterek/NPC-k/Sildar Hallwinter.md",
+    "Karakterek/NPC-k/Tempus.md",
+    "Karakterek/NPC-k/Thalana.md",
+    "Karakterek/NPC-k/Thalborick Dwindlespark.md",
+    "Karakterek/NPC-k/Tharindor Sylvara.md",
+    "Kánon/Karakterek/Grol Király.md",
+    "Karakterek/NPC-k/Klarg.md",
+    "Kánon/Karakterek/Lhupo.md",
+    "Kánon/Karakterek",
+    "Kánon/Story",
     "Session-ök",
-    "Kánon",
-    "A kampány/Harmadik fejezet - Cragmaw vára.md",
-    "Karakterek/NPC-k/Yeemik.md",
-    "DM Board.md",
-    "Varázslatok és események/Álmok és látomások/Álmok Cragmaw hideout előtt.md",
-    "Karakterek/PC-k/Kargath Runeaxe.md",
-    "Karakterek/PC-k/Rialleynn Sylvara.md",
-    "Karakterek/PC-k/Calderyx Halora.md",
-    "DND.SRD.Wiki-main/Spells/Acid Arrow.md",
-    "DND.SRD.Wiki-main/Spells/## Spell Lists (Wikilinked).md",
-    "DND.SRD.Wiki-main/Spells/## Spell Lists.md",
-    "Varázslatok és események/Álmok és látomások/Álmok a Stonehill fogadóban.md",
-    "Varázslatok és események/Álmok és látomások/Hallucinációk a Végső Harmóniában.md",
-    "Varázslatok és események/Álmok és látomások/Közös álom a Stonehill fogadóban.md",
-    "Varázslatok és események/Álmok és látomások/Látomások Cragmaw hideoutban.md",
-    "Tárgyak/Eldhjarta.md"
+    "Kánon"
   ]
 }

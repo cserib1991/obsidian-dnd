@@ -275,7 +275,7 @@ A lőrések be vannak zárva, így a terem sötét. A szöveg feltételezi, hogy
 >[!recite|background-color-brown no-t]
 >A torony felső emeletei összeomlottak, így egy legalább harminc láb magas üreges silót hoztak létre, amelynek felső részei árnyékba vesznek. Por, törmelék és törött üveg borítja a padlót, míg régi munkapadok és könyvespolcok hevernek szétszórva délen. A terem közepén egy hatalmas lény áll, amely egy kopottas medvére emlékeztet, de egy bagoly fejével. Felemelkedik és üvölt, amikor meglát titeket.
 
-A Cragmaw goblinok elfogtak egy [[Owlbear|bagolymedvét]] és ebbe a toronyba zárták. A szobát szándékosan sötétben tartják, hogy a lény nyugodt maradjon, de [[Grol király]] még nem tudja, mit kezdjen vele. Ha egy karakter friss húst dob neki, a bagolymedve felfalja azt. Egyébként megtámadja az első élőlényt, amit az ajtóban lát.
+A Cragmaw goblinok elfogtak egy [[Owlbear|bagolymedvét]] és ebbe a toronyba zárták. A szobát szándékosan sötétben tartják, hogy a lény nyugodt maradjon, de [[Grol Király]] még nem tudja, mit kezdjen vele. Ha egy karakter friss húst dob neki, a bagolymedve felfalja azt. Egyébként megtámadja az első élőlényt, amit az ajtóban lát.
 
 Ez a szoba egykor könyvtár és műhely volt, de az eredeti berendezéséből semmi sem maradt épen.
 
@@ -303,7 +303,7 @@ Eredeti felállás: Bármely karakter, aki hallgatózik az ajtónál, két hango
 > A "Gundren" a ti oldalatokról ekkor kezd el hátrálni, arca eltorzul, és átváltozik egy veszélyesen gyönyörű drow nő alakjába. Halkan, vigyorogva jegyzi meg:
 > **Doppelganger:** _„Olyan szépen játszottam, hogy magatokkal hoztatok ide. Köszönöm a bizalmat... most viszont már nincs több titkom számotokra, ideje távoznotok!”_
 
-[[Grol király]] egy vad, öreg [[Bugbear]], aki 70 életerő ponttal rendelkezik. A Cragmaw törzset puszta megfélemlítéssel tartja uralma alatt. Bár az életkor meggörnyesztette vállait és hátát, meglepően fürge és erős maradt. Követelőző és bosszúálló természetű, és egyetlen Cragmaw tag sem mer szembeszállni vele.
+[[Grol Király]] egy vad, öreg [[Bugbear]], aki 70 életerő ponttal rendelkezik. A Cragmaw törzset puszta megfélemlítéssel tartja uralma alatt. Bár az életkor meggörnyesztette vállait és hátát, meglepően fürge és erős maradt. Követelőző és bosszúálló természetű, és egyetlen Cragmaw tag sem mer szembeszállni vele.
 
 Grol mellett Snarl, egy hatalmas rémfarkas áll. Vyerith, egy alakváltó (doppelganger), aki női drowként álcázza magát, a csapattal van, az utolsó a sorban, meglepetésre készen. Vyerith a Fekete Pók üzenetvivője, aki azért jött, hogy begyűjtse Gundren Rockseekert és a Wave Echo Cave térképét. Grol azonban nem akarja átadni a térképet, inkább eladná. Ő és a drow éppen az árat tárgyalják. Vyerith először ki akarja hallgatni Gundrent, hogy megtudja, ismer-e más is a bánya helyét, majd szándékában áll megölni a törpét és megsemmisíteni a térképet.
 
