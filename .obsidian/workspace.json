@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kánon/Index.md",
+                "file": "Karakterek/NPC-k/Yegg.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Index"
+              "title": "Yegg"
             }
           }
         ]
@@ -213,19 +213,19 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "19664250f588e970",
+  "active": "716832703e862cdb",
   "lastOpenFiles": [
-    "Kánon/Karakterek/Yegg.md",
     "Kánon/Index.md",
+    "Karakterek/NPC-k/Yegg.md",
     "Kánon/Story/Prológus.md",
     "Kánon/Story/Első fejezet - Goblin Nyilak.md",
-    "Kánon/Karakterek/Yeemik.md",
-    "Kánon/Karakterek/Linene Graywind.md",
-    "Kánon/Karakterek/Lhupo.md",
-    "Kánon/Karakterek/Iarno Albrek.md",
-    "Kánon/Karakterek/Halia Thornton.md",
-    "Kánon/Karakterek/Grol Király.md",
-    "Kánon/Karakterek/Aldith Tresendar.md",
+    "Karakterek/NPC-k/Yeemik.md",
+    "Karakterek/NPC-k/Linene Graywind.md",
+    "Karakterek/NPC-k/Lhupo.md",
+    "Karakterek/NPC-k/Iarno Albrek.md",
+    "Karakterek/NPC-k/Halia Thornton.md",
+    "Karakterek/NPC-k/Grol Király.md",
+    "Karakterek/NPC-k/Aldith Tresendar.md",
     "Karakterek/NPC-k/Daran Edermath.md",
     "Karakterek/NPC-k/Kaelynne.md",
     "Karakterek/NPC-k/Lord Salvorax.md",
