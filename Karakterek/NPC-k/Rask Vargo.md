@@ -3,6 +3,7 @@ tags:
   - character
   - npc
 status: alive (undead)
+age: 83
 background: assassin
 class: Lvl 5 Arcane trickster
 alignment: kaotikus gonosz
@@ -120,7 +121,7 @@ race: human (undead)
 #### **Kapcsolatok**
 
 - **[[Shar]]:** Fő mentora és hatalmának forrása.
-- **[[Lord Salvorax]]:** Egykor hűséges ügynöke volt, akit Thalion és az ellopott kincsesládikó felkutatásával bíztak meg. Shar hatására azonban elárulta őt, és most kizárólag az istennő érdekeit szolgálja.
+- **[[Elaric Salvorax]]:** Egykor hűséges ügynöke volt, akit Thalion és az ellopott kincsesládikó felkutatásával bíztak meg. Shar hatására azonban elárulta őt, és most kizárólag az istennő érdekeit szolgálja.
 - **Thalion és [[Thalana]]:**
     - Haragja és irigysége Thalionra vezethető vissza, aki anyja, Thalana segítségével megmenekült előle. Rask dühös, mert úgy érzi, hogy Thalion családja elvette tőle a siker lehetőségét.
     - Thalion fényszilánkja tovább növeli az ellenségeskedését.
@@ -176,7 +177,7 @@ race: human (undead)
 ---
 ### **Kapcsolódó jegyzetek**
 
-- **[[Lord Salvorax]]:** A korábbi mestere, aki most Rask árulását próbálja helyrehozni.
+- **[[Elaric Salvorax]]:** A korábbi mestere, aki most Rask árulását próbálja helyrehozni.
 - **[[Thalana]] és [[Thalion Mystweaver]]:** Az üldözöttjei és személyes bosszújának célpontjai.
 - **[[Shar]]:** A sötét istennő, akinek szolgálatába állt.
 - **[[Árnyékszilánk]]:** A tárgy, amelyért Shar és Salvorax versengenek.

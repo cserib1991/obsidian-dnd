@@ -76,4 +76,4 @@ Egy gyönyörű erdőben jár, ahol minden fa mintha fénylene a hold sugarában
 [[Thalana]]
 [[Azraeth]]
 [[Malgorath]]
-[[Lord Salvorax]]
+[[Elaric Salvorax]]

@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9b88302d4416ae7a",
+        "id": "8232b14865fe78b3",
         "type": "tabs",
         "children": [
           {
-            "id": "19664250f588e970",
+            "id": "0af20c3ea57e767e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Karakterek/NPC-k/Yegg.md",
-                "mode": "source",
+                "file": "Csoportok/Salvorax ház.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Yegg"
+              "title": "Salvorax ház"
             }
           }
         ]
@@ -213,34 +213,34 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "716832703e862cdb",
+  "active": "0af20c3ea57e767e",
   "lastOpenFiles": [
-    "Kánon/Index.md",
-    "Karakterek/NPC-k/Yegg.md",
-    "Kánon/Story/Prológus.md",
-    "Kánon/Story/Első fejezet - Goblin Nyilak.md",
-    "Karakterek/NPC-k/Yeemik.md",
-    "Karakterek/NPC-k/Linene Graywind.md",
-    "Karakterek/NPC-k/Lhupo.md",
-    "Karakterek/NPC-k/Iarno Albrek.md",
-    "Karakterek/NPC-k/Halia Thornton.md",
-    "Karakterek/NPC-k/Grol Király.md",
-    "Karakterek/NPC-k/Aldith Tresendar.md",
-    "Karakterek/NPC-k/Daran Edermath.md",
-    "Karakterek/NPC-k/Kaelynne.md",
-    "Karakterek/NPC-k/Lord Salvorax.md",
-    "Karakterek/NPC-k/Lord Thorian Owlshield.md",
-    "Karakterek/NPC-k/Lyrindor Velinquest.md",
-    "Karakterek/NPC-k/Malgorath.md",
-    "Karakterek/NPC-k/Marla.md",
-    "Karakterek/NPC-k/Nezznar.md",
-    "Karakterek/NPC-k/Nothic.md",
-    "Karakterek/NPC-k/Nym, a tündérmacska.md",
-    "Karakterek/NPC-k/Oghma.md",
+    "DM Board.md",
     "Karakterek/NPC-k/Rask Vargo.md",
-    "Karakterek/NPC-k/Reidoth.md",
-    "Karakterek/NPC-k/Ripper (Klarg rémfarkasa).md",
-    "Karakterek/NPC-k/Selûne.md",
+    "Varázslatok és események/Thalmorn.md",
+    "Karakterek/NPC-k/Thalana.md",
+    "Karakterek/NPC-k/Derek Mystweaver.md",
+    "Karakterek/PC-k/Thalion Mystweaver.md",
+    "Karakterek/NPC-k/Elaric Salvorax.md",
+    "Karakterek/NPC-k/Caerandir Salvorax.md",
+    "Karakterek/NPC-k/Droop.md",
+    "Karakterek/NPC-k/Daran Edermath.md",
+    "Csoportok/Westmere ház.md",
+    "Csoportok/Owlshield ház.md",
+    "Csoportok/Order of the Gauntlet.md",
+    "Csoportok/Salvorax ház.md",
+    "Karakterek/NPC-k/Garaele nővér.md",
+    "Varázslatok és események/A rituálé.md",
+    "Tárgyak/Sylphra Ölelése.md",
+    "Tárgyak/Fényszilánk.md",
+    "Tárgyak/Eldhjarta.md",
+    "Tárgyak/Árnyak Koronája.md",
+    "Tárgyak/Árnyékszilánk.md",
+    "Varázslatok és események/Szilánk kivonása.md",
+    "Varázslatok és események/Álmok és látomások/Rémálom Cragmaw Várában.md",
+    "Karakterek/NPC-k/Eldrin Thalavor.md",
+    "Karakterek/NPC-k/Baldrik Stonebreaker.md",
+    "Karakterek/NPC-k/Azraeth.md",
     "Kánon/Karakterek",
     "Kánon/Story",
     "Session-ök",

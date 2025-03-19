@@ -15,5 +15,5 @@ importance: highest
 #### **Kapcsolódó jegyzetek**
 
 - **[[Fényszilánk]]**
-- **[[Lord Salvorax]]**
+- **[[Elaric Salvorax]]**
 - **[[Thalion Mystweaver]]**

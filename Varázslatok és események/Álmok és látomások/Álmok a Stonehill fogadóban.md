@@ -41,5 +41,5 @@ fc-category: Dreams and Visions
 [[Thalion Mystweaver|Thalion]]
 [[Nym, a tündérmacska|Nym]]
 [[Azraeth]]
-[[Lord Salvorax]]
+[[Elaric Salvorax]]
 [[Phandalin]]

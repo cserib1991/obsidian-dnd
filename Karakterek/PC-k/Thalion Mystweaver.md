@@ -4,6 +4,7 @@ tags:
   - pc
 status: alive
 background: Bajkeverő
+age: 65
 class: rogue
 alignment: kaotikus semleges
 race: half-elf
@@ -117,13 +118,14 @@ Thalion Neverwinter erdejében nőtt fel, ahol édesanyja, **[[Thalana]]**, a t
 ### Arcane Trickster képességek
 - Mage Hand Legerdemain
 #### Cantripek
-- Mage hand
-- Prestidigitation
-- Green-flame blade
+- Mage hand (3-as szinttől)
+- Prestidigitation (3-as szinttől)
+- Green-flame blade (3-as szinttől)
 #### 1-es szintű spellek
-- Disguise self
-- Charm Person
-- Shield
+- Disguise self (3-as szinttől)
+- Silent Image (3-as szinttől)
+- Shield (3-as szinttől)
+- Faerie Fire (4-es szinttől)
 
 ---
 ### **Isten hozott Neverwinterben!**
@@ -134,6 +136,6 @@ Thalion a múltjából menekülve érkezett Neverwinterbe, ahol a helyi tolvajc�
 
 - **[[Thalana medalionja]]**: A fényszilánkot tartalmazó mágikus tárgy.
 - **[[Rémfarkas nyakörve]]**: Trófea és eszköz az intimidációhoz.
-- **[[Lord Salvorax]] és [[Rask Vargo]]**: Az üldözői.
+- **[[Elaric Salvorax]] és [[Rask Vargo]]**: Az üldözői.
 - **[[Árnyékszilánk]] és [[Thalmorn|Az Evermoors-i betegség]]**: A történet központi elemei.
 - **[[Neverwinter]] és [[Luskan]]**: A helyszínek, amelyek alakítják sorsát.

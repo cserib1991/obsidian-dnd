@@ -1,6 +1,5 @@
 ---
 title: "Aldith Tresendar"
-draft: false
 tags:
   - character
   - npc
@@ -9,20 +8,7 @@ aliases:
   - Fekete Sólyom
   - Aldith
 ---
-```statblock
-name: Aldith Tresendar
-layout: Basic 5e Layout
-source: Lost Mines of Phandelver
-dice: true
-size: medium
-render: true
-type: undead
-subtype: human
-alignment: lawful good
-senses: passive perception 20
-languages: Common
 
-```
 #### **Alapadatok**
 
 - **Becenév:** A Fekete Sólyom

@@ -2,9 +2,14 @@
 tags:
   - location
   - settlement
+image: -
+age: -
+race: Human
+AssociatedGroup: -
 ---
 - **Helyszín**: Thundertree egy elhagyatott falucska, amelyet régen egy vulkánkitörés és az azt követő élőholt járvány sújtott. Az évek során a természet visszahódította a területet, a romos épületek körül burjánzó növényzet nőtt.
 - **Hangulat**: Nyugodt, de enyhén baljós légkör. A falu körül susogó fák, néhol romok között bujkáló állatok, és a természet lassú regenerálódásának jelei láthatók.
+
 # Helyszínek
 ## Temető
 - **Leírás**: A temető a falu határán található, egy kis domb tetején, amelyet burjánzó fák és bokrok vesznek körül. A sírkövek többsége benőtt mohával és indákkal, a hely csendes és békés.

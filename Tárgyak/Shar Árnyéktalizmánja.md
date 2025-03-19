@@ -46,7 +46,7 @@ Ezt a sötét talizmánt **[[Shar]]**, az árnyak istennője erősítette meg, h
 
 ### **Eredettörténet:**
 
-A talizmánt **[[Lord Salvorax]]** parancsára készítették, hogy [[Rask Vargo]] kezébe kerülhessen. Shar maga áldotta meg, hogy szolgái az árnyék hatalmát használhassák. Minden egyes használat egy újabb lépést jelent a viselő lelkének elvesztéséhez.
+A talizmánt **[[Elaric Salvorax]]** parancsára készítették, hogy [[Rask Vargo]] kezébe kerülhessen. Shar maga áldotta meg, hogy szolgái az árnyék hatalmát használhassák. Minden egyes használat egy újabb lépést jelent a viselő lelkének elvesztéséhez.
 
 ---
 

@@ -3,6 +3,7 @@ tags:
   - character
   - npc
 status: alive
+age: 85
 ---
 #### **Leírás**
 
@@ -18,7 +19,7 @@ status: alive
 
 - **[[Thalana]]**
 - **[[Rask Vargo]]**
-- **[[Lord Salvorax]]**
+- **[[Elaric Salvorax]]**
 #### **Korai évek**
 Derek Mystweaver a [[Neverwinteri erdő|Neverwinter környéki vadonban]] nőtt fel, ahol szülei a természet tiszteletére és a túlélés művészetére tanították. Hamar híressé vált kiváló nyomolvasási képességeiről, és a közösségek gyakran kérték segítségét eltűnt személyek és elveszett értékek felkutatásában. Fiatal felnőtt korában [[Luskan|Luskanbe]] került, ahol a Luskani flottában teljesített szolgálatot, de nem csak matrózként alkalmazta Luskan helyőrsége, hanem a vadonban is előszeretettel vetették be felderítő küldetéseken.
 #### **Thalana és a családalapítás**
@@ -28,7 +29,7 @@ Derek életének legfontosabb fordulópontja az volt, amikor találkozott **[[T
 Amikor Thalana felfedezte az **[[Thalmorn|Evermoors-i betegség]]** rejtélyét, az életét kockáztatta annak tanulmányozása során. Bár Derek mindent megtett, hogy megmentse őt, a betegség végül elragadta Thalanát. Halála előtt Thalana átadott egy különleges **[[Fényszilánk|fényszilánkot]]** Dereknek, amely megvédhette Thaliont a kórtól.
 
 #### **Konfliktus Lord Salvorax-szal**
-Thalana kutatásai és a fényszilánk felkeltették **[[Lord Salvorax]]** figyelmét, aki bérgyilkosát, **[[Rask Vargo]]**-t küldte Derek és családja után. Egy heves csata során Derek legyőzte Raskot, aki itt szerezte első sebhelyét, de világossá vált, hogy családja sosem lesz biztonságban.
+Thalana kutatásai és a fényszilánk felkeltették **[[Elaric Salvorax]]** figyelmét, aki bérgyilkosát, **[[Rask Vargo]]**-t küldte Derek és családja után. Egy heves csata során Derek legyőzte Raskot, aki itt szerezte első sebhelyét, de világossá vált, hogy családja sosem lesz biztonságban.
 
 Derek kénytelen volt elhagyni fiát, hogy elterelje az üldözőket, és biztonságot nyújtson neki. Azóta az árnyékban rejtőzik, folyamatosan figyelve **[[Thalion Mystweaver|Thalion]]** sorsát, és arra készül, hogy a megfelelő pillanatban újra találkozzanak.
 #### **Jelenlegi helyzet**
