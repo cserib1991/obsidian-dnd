@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8232b14865fe78b3",
+        "id": "67c4a721168d7075",
         "type": "tabs",
         "children": [
           {
-            "id": "0af20c3ea57e767e",
+            "id": "e16b09d8f51db866",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Csoportok/Salvorax ház.md",
+                "file": "Események/Luskani Vérháborúk.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Salvorax ház"
+              "title": "Luskani Vérháborúk"
             }
           }
         ]
@@ -83,117 +83,7 @@
   "right": {
     "id": "8f1d4780f2aa4ba6",
     "type": "split",
-    "children": [
-      {
-        "id": "fc91a46551702ce3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "bd265644f2bb4230",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Tárgyak/Eldhjarta.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Eldhjarta visszahivatkozásai"
-            }
-          },
-          {
-            "id": "4dc9275f4b89bc38",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Tárgyak/Eldhjarta.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Kimenő kapcsolatok a(z) Eldhjarta jegyzetből"
-            }
-          },
-          {
-            "id": "a496a7fa4a553d11",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Címkék"
-            }
-          },
-          {
-            "id": "660871ffdd19c71d",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Tárgyak/Eldhjarta.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Eldhjarta vázlata"
-            }
-          },
-          {
-            "id": "abd2121978ebe89d",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "A bővítmény már nem aktív"
-            }
-          },
-          {
-            "id": "5991af4e047a180b",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "A bővítmény már nem aktív"
-            }
-          },
-          {
-            "id": "392a8bd601eb58bc",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "dices",
-              "title": "Dice Tray"
-            }
-          },
-          {
-            "id": "78278817f52cb73a",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {},
-              "icon": "initiative-tracker",
-              "title": "Initiative Tracker"
-            }
-          }
-        ]
-      }
-    ],
+    "children": [],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
@@ -213,11 +103,25 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "0af20c3ea57e767e",
+  "active": "e16b09d8f51db866",
   "lastOpenFiles": [
     "DM Board.md",
+    "Események/Luskani Vérháborúk.md",
+    "Álmok és látomások/Rémálom Cragmaw Várában.md",
+    "Álmok és látomások/Látomások Cragmaw hideoutban.md",
+    "Álmok és látomások/Közös álom a Stonehill fogadóban.md",
+    "Álmok és látomások/Hallucinációk a Végső Harmóniában.md",
+    "Álmok és látomások/Álmok Cragmaw hideout előtt.md",
+    "Álmok és látomások/Álmok a Stonehill fogadóban.md",
+    "Események/Thalmorn.md",
+    "A kampány/Első fejezet - Goblin Nyilak.md",
+    "A kampány/Árnyék és Fény Keresztútján.md",
+    "Csoportok/Salvorax ház.md",
+    "Események",
+    "Helyszínek/Thundertree.md",
+    "Karakterek/NPC-k/Aldith Tresendar.md",
+    "Karakterek/NPC-k/Tharindor Sylvara.md",
     "Karakterek/NPC-k/Rask Vargo.md",
-    "Varázslatok és események/Thalmorn.md",
     "Karakterek/NPC-k/Thalana.md",
     "Karakterek/NPC-k/Derek Mystweaver.md",
     "Karakterek/PC-k/Thalion Mystweaver.md",
@@ -228,19 +132,6 @@
     "Csoportok/Westmere ház.md",
     "Csoportok/Owlshield ház.md",
     "Csoportok/Order of the Gauntlet.md",
-    "Csoportok/Salvorax ház.md",
-    "Karakterek/NPC-k/Garaele nővér.md",
-    "Varázslatok és események/A rituálé.md",
-    "Tárgyak/Sylphra Ölelése.md",
-    "Tárgyak/Fényszilánk.md",
-    "Tárgyak/Eldhjarta.md",
-    "Tárgyak/Árnyak Koronája.md",
-    "Tárgyak/Árnyékszilánk.md",
-    "Varázslatok és események/Szilánk kivonása.md",
-    "Varázslatok és események/Álmok és látomások/Rémálom Cragmaw Várában.md",
-    "Karakterek/NPC-k/Eldrin Thalavor.md",
-    "Karakterek/NPC-k/Baldrik Stonebreaker.md",
-    "Karakterek/NPC-k/Azraeth.md",
     "Kánon/Karakterek",
     "Kánon/Story",
     "Session-ök",

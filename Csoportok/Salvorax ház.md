@@ -46,27 +46,36 @@ A Salvorax ház címere:
 
 #### **Mystweaver és Salvorax közös timeline**
 
-> [!timeline|t-l] **1406 DR**
+> [!timeline|t-l] **1396 DR**
+> - Elaric Salvorax születése
+
+> [!timeline|t-r] **1406 DR**
 > - Derek Mystweaver születése
 
+>[!timeline|t-l] **1424 DR**
+> - A [[Luskani Vérháborúk]] kitörése. Elaric Salvorax 28 évesen kezdi el kiépíteni titkos fegyverkereskedelmi hálózatát és kémhálózatát.
+> - Derek Mystweaver 18 évesen Elaric Salvorax szolgálatába áll. Derek gyorsan Elaric első embere lesz, segít neki a rangerekből és rogue-okból álló kémhálózatának kiépítésében.
+
 > [!timeline|t-r] **1426 DR**
-> - Derek Mystweaver 20 évesen Elaric Salvorax szolgálatába áll
-> - Derek és Rask Vargo Thalana meggyilkolására indulnak, de Derek beleszeret Thalanába
+> - Derek és Rask Vargo Thalana meggyilkolására indulnak, de Derek beleszeret Thalanába.
 
 > [!timeline|t-l t-1] **1427 DR** 
-> - Thalion Mystweaver születése (jelenleg 64 éves)
+> - Thalion Mystweaver születése. Derek elhagyja Elaric szolgálatát, és visszavonul Thalanával.
 
-> [!timeline|t-r] **1441 DR**
+> [!timeline|t-r] **1430 DR**
+> - A Luskani Vérháborúk vége. Elaric Salvorax győzelmet arat a konfliktusban, de elveszíti legjobb emberét, Dereket. Rask Vargo lép Derek helyére, aki később Shar szolgálatába áll.
+
+> [!timeline|t-l] **1441 DR**
 > - Caerandir Salvorax születése (jelenleg 50 éves)
 > - Thalion 14 éves
 
-> [!timeline|t-l] **1451 DR**
+> [!timeline|t-r] **1451 DR**
 > - Caerandir (10 évesen) találkozik Thalionnal (24 éves)
 
-> [!timeline|t-r] **1476 DR**
+> [!timeline|t-l] **1476 DR**
 > - Caerandir (35 évesen) megöli apját, Elaric Salvoraxot, és átveszi Luskan titkos hálózatait
 
-> [!timeline|t-l] **1491 DR**
+> [!timeline|t-r] **1491 DR**
 > - Thalion ellop egy értékes ékszeres ládikát
 > - Caerandir (50 éves) titkos szövetséget köt a Vörös Mágusokkal Shar ellen
 > - Derek Mystweaver 85 éves, Thalion 64 éves, Caerandir 50 éves

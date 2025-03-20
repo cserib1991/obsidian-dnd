@@ -1,12 +1,14 @@
 ---
 tags:
-  - inline-events
   - event
   - dream
 status: happened
 fc-calendar: Calendar of Harptos
-fc-date: 1491-003-28
 fc-category: Dreams and Visions
+fc-date:
+ day: 28
+ month: Ches
+ year: 1491
 ---
 ### Thalion
 

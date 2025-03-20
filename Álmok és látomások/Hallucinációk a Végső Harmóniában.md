@@ -5,8 +5,11 @@ tags:
   - dream
 status: not happened
 fc-calendar: Calendar of Harptos
-fc-date: 1491-004-05
 fc-category: Dreams and Visions
+fc-date:
+ day: 05
+ month: Tarsakh
+ year: 1491
 ---
 
 ### **Calderyx – Eldrin Halála**

@@ -267,8 +267,8 @@
         "eras": []
       },
       "current": {
-        "day": 29,
-        "month": 2,
+        "day": 2,
+        "month": 4,
         "year": 1491
       },
       "events": [
@@ -474,19 +474,34 @@
           "color": "#9b2c2c"
         },
         {
-          "id": "ID_ea48a869aadb",
-          "color": "#a34fe8",
-          "name": "Dreams and Visions"
-        },
-        {
           "id": "ID_4b98d88b796a",
           "color": "#e1e425",
           "name": "Fights"
         },
         {
+          "id": "ID_b83bc9fa5a58",
+          "color": "#b36dd6",
+          "name": "Events"
+        },
+        {
           "id": "ID_186b9a686ba9",
           "color": "#fcedbf",
+          "name": "Historical Events"
+        },
+        {
+          "id": "ID_8a5bebbb280a",
+          "color": "#1e2f9f",
           "name": "Dreams and Visions"
+        },
+        {
+          "id": "ID_e919a98a9978",
+          "color": "#64b4ce",
+          "name": "Magical Events"
+        },
+        {
+          "id": "ID_fa78484ae8e8",
+          "color": "#5eed6f",
+          "name": "Fi"
         }
       ]
     }
@@ -495,12 +510,12 @@
   "dailyNotes": false,
   "dateFormat": "YYYY-MM-DD",
   "defaultCalendar": "ID_b9899a2be8f8",
-  "eventPreview": false,
+  "eventPreview": true,
   "exit": {
     "saving": false,
     "event": false,
     "calendar": false,
-    "savingEvent": false
+    "savingEvent": true
   },
   "eventFrontmatter": false,
   "parseDates": true,
@@ -518,7 +533,7 @@
   "paths": [
     [
       "/",
-      "DEFAULT"
+      "ID_b9899a2be8f8"
     ]
   ]
 }

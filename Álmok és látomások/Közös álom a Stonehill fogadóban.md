@@ -4,9 +4,13 @@ tags:
   - dream
 status: happened
 fc-calendar: Calendar of Harptos
-fc-date: 1491-003-29
 fc-category: Dreams and Visions
+fc-date:
+ day: 29
+ month: Ches
+ year: 1491
 ---
+
 Aláfestő zene: https://music.youtube.com/watch?v=t_Eg69YHgsI
 Shar gúnyos kacaja: https://www.youtube.com/watch?v=W8FfVYohLG8
 Shar gúnyos kacaja (démoni verzió): https://www.youtube.com/watch?v=2GGB7H67vGs

@@ -1,12 +1,14 @@
 ---
 tags:
-  - inline-events
   - event
   - dream
 status: not happened
 fc-calendar: Calendar of Harptos
-fc-date: 1491-004-02
 fc-category: Dreams and Visions
+fc-date:
+ day: 02
+ month: Tarsakh
+ year: 1491
 ---
 ## **1. Fázis: A Karakterek Egyéni Próbatételei**
 
