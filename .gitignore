@@ -1,0 +1,14 @@
+# Obsidian-specifikus fájlok
+.obsidian/*.json
+.obsidian/desktop.ini
+.obsidian/icons/
+.obsidian/snippets/
+.obsidian/themes/
+
+# Rendszerfájlok
+.DS_Store
+Thumbs.db
+
+# Ideiglenes fájlok
+*.tmp
+*.temp
