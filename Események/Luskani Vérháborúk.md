@@ -30,7 +30,7 @@ A Luskani Vérháborúk a 15. század elején zajlottak, Luskan városában és 
 
 ## Főbb események
 
->[!timeline|t-l] <span data-category='Historical Events' data-calendar='Calendar of Harptos' data-date='1424-Tarsakh-05' date-end='' data-img='Inline Example/Event_2.jpg' data-name='A háború kitörése'><br>Luskan öt kalózura (High Captains) közül hármat meggyilkolnak. A gyilkosságok mögött <b>Elaric Salvorax</b> áll, aki a hatalmat szeretné megszerezni.</span>
+>[!timeline|t-l] <span data-category='Historical Events' data-calendar='Calendar of Harptos' data-date='1424-Tarsakh-12' date-end='' data-img='Inline Example/Event_2.jpg' data-name='A háború kitörése'><br>Luskan öt kalózura (High Captains) közül hármat meggyilkolnak. A gyilkosságok mögött <b>Elaric Salvorax</b> áll, aki a hatalmat szeretné megszerezni.</span>
 
 >[!timeline|t-l] <span data-category='Fights' data-calendar='Calendar of Harptos' data-date='1424-Tarsakh-23' data-img='Inline Example/Event_2.jpg' data-name='Tengeri csata a Mirar torkolatánál'><br>A <b>Hosttower of the Arcane</b> mágusai tűzijátékokat lőnek a vízre, hogy megzavarják a rivaldafényben a Luskan elleni Waterdeep-i flottát.</span>
 

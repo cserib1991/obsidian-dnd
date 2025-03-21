@@ -1,9 +1,9 @@
 ---
 tags:
- - npc
+  - npc
 Gender: male
 Race: human
-Age: 50
+Age: "50"
 Class: 
 Alignment: Törvényes gonosz
 Character-Role: 

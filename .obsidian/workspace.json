@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Események/Luskani Vérháborúk.md",
+                "file": "Karakterek/NPC-k/Thalana.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Luskani Vérháborúk"
+              "title": "Thalana"
             }
           }
         ]
@@ -83,7 +83,97 @@
   "right": {
     "id": "8f1d4780f2aa4ba6",
     "type": "split",
-    "children": [],
+    "children": [
+      {
+        "id": "b3474643fe69b535",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb064205b66b1986",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Karakterek/NPC-k/Thalana.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Thalana visszahivatkozásai"
+            }
+          },
+          {
+            "id": "8c968e61e8e2e11a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Karakterek/NPC-k/Thalana.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Kimenő kapcsolatok a(z) Thalana jegyzetből"
+            }
+          },
+          {
+            "id": "d4c01deb2b46a498",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Címkék"
+            }
+          },
+          {
+            "id": "c553ae3277b06ad0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Karakterek/NPC-k/Thalana.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Thalana vázlata"
+            }
+          },
+          {
+            "id": "6bc7e0974bc0018d",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          },
+          {
+            "id": "2682a520b558f75f",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
+          }
+        ]
+      }
+    ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
@@ -105,8 +195,8 @@
   },
   "active": "e16b09d8f51db866",
   "lastOpenFiles": [
-    "DM Board.md",
     "Események/Luskani Vérháborúk.md",
+    "DM Board.md",
     "Álmok és látomások/Rémálom Cragmaw Várában.md",
     "Álmok és látomások/Látomások Cragmaw hideoutban.md",
     "Álmok és látomások/Közös álom a Stonehill fogadóban.md",
