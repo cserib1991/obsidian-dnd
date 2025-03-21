@@ -1,9 +1,9 @@
 # Obsidian-specifikus fájlok
-.obsidian/*.json
-.obsidian/desktop.ini
-.obsidian/icons/
-.obsidian/snippets/
-.obsidian/themes/
+/.obsidian/desktop.ini
+/.obsidian/icons/
+/.obsidian/snippets/
+/.obsidian/themes/
+/.obsidian/*.json
 
 # Rendszerfájlok
 .DS_Store
