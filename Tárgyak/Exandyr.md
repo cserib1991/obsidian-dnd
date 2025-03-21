@@ -114,6 +114,12 @@ _Exandyr felderengő rúnái halvány, pulzáló fényt árasztanak, mintha pró
 
 ---
 
+## Pajzs attunementhez szükséges rituálé
+
+Istenek szimbólumai a  rituálé során kerülnek rá a pajzsra: Mystra, Oghma, Lathander, Tymora, Deneir
+Egy kendővel tekeri körbe a szarvait, hogy csak egy fókusza legyen. Ezzel kapcsolatosan a Varázslatok Kohójában szeretne egy artificer-rel csináltatni egy kürtöt a szarvra - ruházati kiegészítő fémből, legyen valami mágikus tulajdonsága.
+
+
 > [!blank]
 > ## **Kapcsolódó jegyzetek**
 >> [[Calderyx Halora]]

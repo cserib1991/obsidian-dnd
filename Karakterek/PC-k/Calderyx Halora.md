@@ -14,7 +14,7 @@ aliases:
   - Calderyx
 level: "3"
 ac: "15"
-hp: "32"
+hp: "27"
 modifier: "1"
 Gender: Férfi
 Age: 25
@@ -143,11 +143,13 @@ Calderyx egy [[Amphail]] melletti kis faluban született, ahol zord és bizalmat
 >> ---
 | Képesség jártasságok  |  |  |  |
 |:--- |:--- | ---:| ---:|
-| **Arcana** (INT) | +6 | **Sebesség** | 30 ft. |
-| **History** (INT) | +4 | **Passzív észlelés** | 13 |
-| **Religion** (INT) | +5 | **Jártasság bónusz** | +2  |
+| **Arcana** (INT) | +5 | **Sebesség** | 30 ft. |
+| **History** (INT) | +4 | **Passzív észlelés** | 16 |
+| **Religion** (INT) | +4 | **Jártasság bónusz** | +2  |
 | **Insight** (WIS) | +6 | **Sötétben látás** | 60 ft. |
-| **Medicine** (WIS) | +6 | | |
+| **Medicine** (WIS) | +6 | **Spellcasting mod** (WIS) | +4 |
+| **Investigation** (INT) | +4 | **SpellSave DC** | +14 |
+| **Perception** (WIS) | +6 | **Spell Attack Mod** | +6 |
 >> 
 >> 
 >> ## Eszköztár
@@ -157,9 +159,6 @@ Calderyx egy [[Amphail]] melletti kis faluban született, ahol zord és bizalmat
 >> - papcsomag (backpack, a blanket, 10 candles, a tinderbox, an alms box, 2 blocks of incense, a censer, vestments, 2 days of rations, and a waterskin)
 >> - szent szimbólum – belegravírozva a szarvakra – varázsláskor, vagy ha az Arcana Domainbe tartozó istenek (Selûne, Vecna, Deneir, Mystra stb.) szentélyében tartózkodsz, fényesen izzik
 >> - [[Eldrin’s memento]]: egy emlék egykori mesteredtől, Eldrin Thalavortól – egy amulet, ami az Arcana képesség check-ekre +1-et ad
->> ## Nyelvek és egyéb jellemzők
->> **Skill.** leírás
->>**Skill2.** leírás
 >> ## Személyiség
 >>**Skill.** leírás
 >>**Skill2.** leírás
