@@ -242,6 +242,57 @@
         ],
         "layout": "Basic 5e Layout"
       }
+    ],
+    [
+      "Twig Blight",
+      {
+        "name": "Twig Blight",
+        "source": "5e SRD",
+        "size": "Small",
+        "type": "plant",
+        "subtype": "",
+        "alignment": "neutral evil",
+        "ac": 13,
+        "hp": 4,
+        "hit_dice": "1d6 + 1",
+        "speed": "20 ft.",
+        "stats": [
+          6,
+          13,
+          12,
+          4,
+          8,
+          3
+        ],
+        "skillsaves": [
+          {
+            "stealth": 3
+          }
+        ],
+        "damage_vulnerabilities": "fire",
+        "damage_resistances": "",
+        "damage_immunities": "",
+        "condition_immunities": "",
+        "senses": "Blindsight 60 ft., passive Perception 9",
+        "languages": "Understands Common but can't speak",
+        "cr": "1/8",
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "False Appearance",
+            "desc": "While the blight remains motionless, it is indistinguishable from a dead shrub."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Claw",
+            "desc": "_Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 3 (1d4 + 1) piercing damage.",
+            "attack_bonus": 3,
+            "damage_dice": "1d4",
+            "damage_bonus": 1
+          }
+        ]
+      }
     ]
   ],
   "defaultLayouts": {},
