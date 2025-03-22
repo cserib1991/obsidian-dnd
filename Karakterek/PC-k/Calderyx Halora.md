@@ -15,7 +15,7 @@ aliases:
 level: "3"
 ac: "15"
 hp: "27"
-modifier: "1"
+modifier: 1
 Gender: Férfi
 Age: 25
 Alignment: Semleges jó
